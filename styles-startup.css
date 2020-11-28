@@ -99,7 +99,7 @@ a {
 
 .form{
   background-color: #f7f7f7;
-  min-height: 50vh;
+  min-height: 25vh;
   display: grid;
   align-items: center;
 }
